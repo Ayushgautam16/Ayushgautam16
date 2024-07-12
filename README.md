@@ -27,7 +27,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 ## 📫 Get in Touch
 - **Email:** [ayushgautam2007.kg@gmail.com](mailto:ayushgautam2007.kg@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/anubhav-choubey/)
+- **LinkedIn:** [[https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/ayush-gautam-9baa14248/)]([https://www.linkedin.com/in/anubhav-choubey/](https://www.linkedin.com/in/ayush-gautam-9baa14248/))
 - **GitHub:** [github.com/Ayushgautam16](https://github.com/Ayushgautam16)
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
