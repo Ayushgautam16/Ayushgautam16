@@ -49,8 +49,11 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
 ---
+![GitHub Stats](https://streak-stats.demolab.com?user=LazyyVenom&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushgautam16)
 
 ---
 
