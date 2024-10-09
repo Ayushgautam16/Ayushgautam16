@@ -1,9 +1,10 @@
-# ⚡Hello, I'm Ayush Gautam!
+<h1 align="center">Hello There 🤙, I'm Ayush Gautam</h1>
 
+<h3 align="center"> FullStack Developer | Python Enthusiast </h3>
 
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
+</p>
 
 ## 🚀 About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
