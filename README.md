@@ -58,7 +58,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
 </div>
 
-### Get in Touch
+### 📫 Get in Touch
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <a href="mailto:choubey.anubhav253@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
@@ -76,16 +76,6 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
 </div>
-
-
-## 📫 Get in Touch
-
-[![Email](https://img.icons8.com/ios-filled/40/ffffff/email.png)](mailto:ayushgautam2007.kg@gmail.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/40/ffffff/linkedin.png)](https://www.linkedin.com/in/ayush-gautam-9baa14248/)
-[![GitHub](https://img.icons8.com/ios-filled/40/ffffff/github.png)](https://github.com/Ayushgautam16)
-[![Instagram](https://img.icons8.com/ios-filled/40/ffffff/instagram-new.png)](https://www.instagram.com/ayush_gautam16/)
-[![X](https://img.icons8.com/ios-filled/40/ffffff/twitter.png)](https://x.com/Ayush91407)
-
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
