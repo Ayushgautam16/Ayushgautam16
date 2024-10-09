@@ -76,6 +76,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
 </div>
+<br>
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
