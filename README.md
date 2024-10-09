@@ -15,30 +15,67 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 - **Automation with Selenium:** Creating automated workflows and testing frameworks.
 - **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
 
-### 💻 Tech Stack:
+### Tech Stack:
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="Keras logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="Flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="Numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="Scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" height="30" alt="Conda logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Conda" alt="Conda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</p>
+### Get in Touch
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <a href="mailto:choubey.anubhav253@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/anubhav-choubey/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/LazyyVenom">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.kaggle.com/choubeyanubhav">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
+  </a>
+</div>
 
 
 ## 📫 Get in Touch
@@ -46,6 +83,8 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 [![Email](https://img.icons8.com/ios-filled/40/ffffff/email.png)](mailto:ayushgautam2007.kg@gmail.com)
 [![LinkedIn](https://img.icons8.com/ios-filled/40/ffffff/linkedin.png)](https://www.linkedin.com/in/ayush-gautam-9baa14248/)
 [![GitHub](https://img.icons8.com/ios-filled/40/ffffff/github.png)](https://github.com/Ayushgautam16)
+[![Instagram](https://img.icons8.com/ios-filled/40/ffffff/instagram-new.png)](https://www.instagram.com/ayush_gautam16/)
+[![X](https://img.icons8.com/ios-filled/40/ffffff/twitter.png)](https://x.com/Ayush91407)
 
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
