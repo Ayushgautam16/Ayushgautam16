@@ -42,9 +42,11 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 
 ## 📫 Get in Touch
-- **Email:** [ayushgautam2007.kg@gmail.com](mailto:ayushgautam2007.kg@gmail.com)
-- **LinkedIn:** [[(https://www.linkedin.com/in/ayush-gautam-9baa14248/)](https://www.linkedin.com/in/ayush-gautam-9baa14248/)]
-- **GitHub:** [github.com/Ayushgautam16](https://github.com/Ayushgautam16)
+
+[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:ayushgautam2007.kg@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/ayush-gautam-9baa14248/)
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/Ayushgautam16)
+
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
