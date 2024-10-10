@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 🤙, I'm Ayush Gautam</h1>
 
-<h3 align="center"> FullStack Developer | Python Enthusiast </h3>
+<h3 align="center"> Web Developer | AI/ML Python Enthusiast </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
