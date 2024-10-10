@@ -60,19 +60,19 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 ### 📫 Get in Touch
 <div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="mailto:choubey.anubhav253@gmail.com">
+  <a href="ayushgautam2007.kg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
   </a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/anubhav-choubey/">
+  <a href="https://www.linkedin.com/in/ayush-gautam-9baa14248/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://github.com/LazyyVenom">
+  <a href="https://github.com/Ayushgautam16">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   </a>
   <img width="12" />
-  <a href="https://www.kaggle.com/choubeyanubhav">
+  <a href="https://www.kaggle.com/ayushgautam16">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
 </div>
