@@ -85,28 +85,22 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <a href="https://github.com/Ayushgautam16">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.kaggle.com/ayushgautam16">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="30" alt="Kaggle logo" />
-  </a>
-  <img width="12" />
-  <a href="https://leetcode.com/u/user8155D/">
-    <img src="https://images.app.goo.gl/ms78Juv4KkqFy6wZ8" height="30" alt="LeetCode logo" />
-  </a>
+ 
+ 
   <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
     <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="30" alt="Duolingo logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.credly.com/users/ayush-gautam.372514ce">
-    <img src="https://images.app.goo.gl/zXNxX3ZsiYY7wfFi6" height="30" alt="Credly logo" />
-  </a>
+ 
   <img width="12" />
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
   </a>
 </div>
-
+ <img width="12" />
+  <a href="https://www.kaggle.com/ayushgautam16">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
+  </a>
 
 
 <br>
