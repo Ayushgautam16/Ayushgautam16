@@ -7,6 +7,22 @@
 </p>
 
 
+<div align="center">
+	
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Ayush Gautam !</h1>
+
+`A Man Who Codes & Designs Using His Hidden Creativity.`
+
+<a href="#"><img src="assets/technologist.png" width="150"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayushgautam16&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgautam16" /> </p>
+<p align="center">
+	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true) <hr>
+
+
+
 
 ## 🚀 About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
@@ -94,6 +110,8 @@ Feel free to explore my repositories and connect with me for collaboration or ju
     <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushgautam16)
 
