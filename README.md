@@ -60,13 +60,8 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
 </div>
 
-<br>
 
-<div align="center">
-  <a href="https://github.com/Ayushgautam16">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
+
 
 ### 📫 Get in Touch
 <div align="left" style="display: flex; flex-wrap: wrap;">
@@ -94,6 +89,11 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 ![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
 ---
+<div align="center">
+  <a href="https://github.com/Ayushgautam16">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushgautam16)
 
