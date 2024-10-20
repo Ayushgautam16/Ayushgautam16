@@ -6,6 +6,12 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
 </p>
 
+<div align="center">
+  <a href="https://github.com/Ayushgautam16">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
+
 ## 🚀 About Me
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
 
