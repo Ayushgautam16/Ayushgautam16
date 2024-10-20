@@ -91,7 +91,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
   <img width="12" />
   <a href="https://leetcode.com/u/user8155D/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="LeetCode logo" />
+    <img src="https://images.app.goo.gl/ms78Juv4KkqFy6wZ8" height="30" alt="LeetCode logo" />
   </a>
   <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
@@ -99,7 +99,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
   <img width="12" />
   <a href="https://www.credly.com/users/ayush-gautam.372514ce">
-    <img src="https://images.credly.com/size/340x340/images/42992295-11c5-46a4-bc02-9490e033ad2a/Credly_Logo_2022_Color.png" height="30" alt="Credly logo" />
+    <img src="https://images.app.goo.gl/zXNxX3ZsiYY7wfFi6" height="30" alt="Credly logo" />
   </a>
   <img width="12" />
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
