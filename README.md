@@ -1,5 +1,8 @@
-<h1 align="center">Hello There 🤙, I'm Ayush Gautam</h1>
-
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Ayush Gautam !</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayushgautam16&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgautam16" /> </p>
+<p align="center">
+	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+</p>
 <h3 align="center"> Web Developer | AI/ML Python Enthusiast </h3>
 
 <p align="center">
@@ -9,15 +12,7 @@
 
 <div align="center">
 	
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Ayush Gautam !</h1>
 
-`A Man Who Codes & Designs Using His Hidden Creativity.`
-
-<a href="#"><img src="assets/technologist.png" width="150"></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayushgautam16&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgautam16" /> </p>
-<p align="center">
-	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
-</p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true) <hr>
 
