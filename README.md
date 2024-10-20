@@ -73,7 +73,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 
 ### 📫 Get in Touch
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="mailto:ayushgautam2007.kg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail logo" />
   </a>
@@ -86,19 +86,19 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   </a>
   <img width="12" />
+  <a href="https://www.kaggle.com/ayushgautam16">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle logo" />
+  </a>
+  <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
     <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="30" alt="Duolingo logo" />
   </a>
- 
   <img width="12" />
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
   </a>
 </div>
- <img width="12" />
-  <a href="https://www.kaggle.com/ayushgautam16">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
-  </a>
+
 
 
 <br>
