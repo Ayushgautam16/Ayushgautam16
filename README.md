@@ -21,10 +21,10 @@
 I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
 
 ### 🧑‍💻 What I Do:
-- **Python Development:** Building robust applications and scripts.
-- **Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
-- **Automation with Selenium:** Creating automated workflows and testing frameworks.
-- **Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
+**Python Development:** Building robust applications and scripts.
+**Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
+**Automation with Selenium:** Creating automated workflows and testing frameworks.
+**Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
 
 ### Tech Stack:
 <div align="left" style="display: flex; flex-wrap: wrap;">
@@ -87,25 +87,26 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
   <img width="12" />
   <a href="https://www.kaggle.com/ayushgautam16">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
+    <img src="https://skillicons.dev/icons?i=kaggle" height="30" alt="Kaggle logo" />
   </a>
   <img width="12" />
   <a href="https://leetcode.com/u/user8155D/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" alt="LeetCode logo" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="LeetCode logo" />
   </a>
   <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/duolingo.svg" height="30" alt="Duolingo logo" />
+    <img src="https://skillicons.dev/icons?i=duolingo" height="30" alt="Duolingo logo" />
   </a>
   <img width="12" />
   <a href="https://www.credly.com/users/ayush-gautam.372514ce">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/credly.svg" height="30" alt="Credly logo" />
+    <img src="https://skillicons.dev/icons?i=credly" height="30" alt="Credly logo" />
   </a>
   <img width="12" />
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" height="30" alt="Google Cloud logo" />
+    <img src="https://skillicons.dev/icons?i=googlecloud" height="30" alt="Google Cloud logo" />
   </a>
 </div>
+
 
 <br>
 
