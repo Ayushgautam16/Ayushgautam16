@@ -75,7 +75,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 ### 📫 Get in Touch
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:ayushgautam2007.kg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail logo" />
   </a>
   <img width="12" />
   <a href="https://www.linkedin.com/in/ayush-gautam-9baa14248/">
@@ -95,17 +95,18 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
   <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
-    <img src="https://skillicons.dev/icons?i=duolingo" height="30" alt="Duolingo logo" />
+    <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="30" alt="Duolingo logo" />
   </a>
   <img width="12" />
   <a href="https://www.credly.com/users/ayush-gautam.372514ce">
-    <img src="https://skillicons.dev/icons?i=credly" height="30" alt="Credly logo" />
+    <img src="https://images.credly.com/size/340x340/images/42992295-11c5-46a4-bc02-9490e033ad2a/Credly_Logo_2022_Color.png" height="30" alt="Credly logo" />
   </a>
   <img width="12" />
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
-    <img src="https://skillicons.dev/icons?i=googlecloud" height="30" alt="Google Cloud logo" />
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
   </a>
 </div>
+
 
 
 <br>
