@@ -73,8 +73,8 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 
 ### 📫 Get in Touch
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="ayushgautam2007.kg@gmail.com">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="mailto:ayushgautam2007.kg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email logo" />
   </a>
   <img width="12" />
@@ -89,7 +89,24 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <a href="https://www.kaggle.com/ayushgautam16">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="28" alt="Kaggle logo" />
   </a>
+  <img width="12" />
+  <a href="https://leetcode.com/u/user8155D/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" alt="LeetCode logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.duolingo.com/profile/AyushGauta973401">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/duolingo.svg" height="30" alt="Duolingo logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.credly.com/users/ayush-gautam.372514ce">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/credly.svg" height="30" alt="Credly logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" height="30" alt="Google Cloud logo" />
+  </a>
 </div>
+
 <br>
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
