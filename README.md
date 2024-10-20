@@ -85,8 +85,6 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   <a href="https://github.com/Ayushgautam16">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   </a>
- 
- 
   <img width="12" />
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
     <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="30" alt="Duolingo logo" />
@@ -113,7 +111,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 ---
 <div align="center">
   <a href="https://github.com/Ayushgautam16">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshrajmishra111&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
 
