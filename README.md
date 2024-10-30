@@ -14,6 +14,8 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true) <hr>
 
+[![An image of @ayushgautam16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushgautam16)](https://holopin.io/@ayushgautam16)
+
 
 
 
