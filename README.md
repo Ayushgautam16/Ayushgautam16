@@ -16,12 +16,15 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true) <hr>
 
+
 <div align="center">
   <a href="https://github.com/Ayushgautam16">
     <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
----
+
+
+
 ## Hactoberfest'(24) Badges 📫
 [![An image of @ayushgautam16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushgautam16)](https://holopin.io/@ayushgautam16)
 
@@ -131,6 +134,14 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 <br>
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
+
+<div align="center">
+  <a href="https://github.com/Ayushgautam16">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
+
+
 
 ---
 ![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
