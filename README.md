@@ -10,10 +10,7 @@
 
 <div align="center">
 
----
-![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
----
 	
 
 
@@ -128,6 +125,10 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
+---
+![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
+
+---
 
 <div align="center">
   <a href="https://github.com/Ayushgautam16">
