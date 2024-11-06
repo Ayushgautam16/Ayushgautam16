@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+<iframe src="https://api.badgr.io/public/assertions/q3W1qCIdShWq4mKWLNWk7A?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=ayushgautam2007.kg%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 
 ## 🚀 About Me
