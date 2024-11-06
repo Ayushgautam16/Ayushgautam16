@@ -21,7 +21,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
-
+---
 ## Hactoberfest'(24) Badges 📫
 [![An image of @ayushgautam16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushgautam16)](https://holopin.io/@ayushgautam16)
 
