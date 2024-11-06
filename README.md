@@ -11,11 +11,6 @@
 <div align="center">
 
 
-	<div align="center">
-  <a href="https://github.com/Ayushgautam16">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
 
 
 
