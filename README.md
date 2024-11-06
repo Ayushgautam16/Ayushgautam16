@@ -135,23 +135,10 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
-<div align="center">
-  <a href="https://github.com/Ayushgautam16">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
-
-
 
 ---
 ![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
----
 
-
-
-
-
----
 
 
