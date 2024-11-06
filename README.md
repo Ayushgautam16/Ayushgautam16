@@ -11,7 +11,12 @@
 <div align="center">
 
 
-	
+	<div align="center">
+  <a href="https://github.com/Ayushgautam16">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam16&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
+
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true) <hr>
