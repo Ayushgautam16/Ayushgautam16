@@ -139,8 +139,5 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 ---
 ![GitHub Stats](https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800)
 
-https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<Ayushgautam16>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
 
 
