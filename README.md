@@ -1,4 +1,4 @@
-<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Ayush Gautam !</h1>
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">Ayush Gautam!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayushgautam16&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgautam16" /> </p>
 
 <h3 align="center"> Web Developer | AI/ML Python Enthusiast </h3>
