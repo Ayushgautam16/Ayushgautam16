@@ -15,7 +15,7 @@
 
 
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushgautam16&theme=react-dark&hide_border=true&area=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushgautam16&show_icons=true&theme=react)
 
 
 <div align="center">
