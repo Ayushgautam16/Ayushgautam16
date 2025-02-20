@@ -15,7 +15,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushgautam16&show_icons=true&theme=react)
 
 
 <div align="center">
