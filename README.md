@@ -14,8 +14,8 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=react-dark)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
 
 
 <div align="center">
