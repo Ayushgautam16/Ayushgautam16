@@ -14,7 +14,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushgautam16&show_icons=true&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=react-dark)
 
 
 
