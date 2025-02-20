@@ -138,7 +138,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 
 ---
-<img src="https://streak-stats.demolab.com?user=Ayushgautam16&theme=tokyonight&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true)
 
 
 
