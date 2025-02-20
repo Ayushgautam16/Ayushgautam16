@@ -138,7 +138,7 @@ Feel free to explore my repositories and connect with me for collaboration or ju
 
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
 
