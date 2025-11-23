@@ -129,10 +129,6 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
 
----
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-
 
 
 
