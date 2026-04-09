@@ -120,10 +120,14 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
   </a>
   <img width="12" />
+  <img width="12" />
   <a href="https://x.com/Ayush58739">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="30" alt="X logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" height="30" alt="X logo" />
   </a>
 </div>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
