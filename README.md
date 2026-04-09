@@ -122,7 +122,9 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
 </div>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
