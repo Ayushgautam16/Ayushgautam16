@@ -121,12 +121,12 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
   </a>
 </div>
-
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgautam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br>
+
 
 Feel free to explore my repositories and connect with me for collaboration or just to chat about tech!
 
