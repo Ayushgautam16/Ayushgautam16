@@ -128,7 +128,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
        alt="X logo" />
 </a>
 
-</div>
+
 
 <br>
 
