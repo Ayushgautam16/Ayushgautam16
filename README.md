@@ -122,8 +122,11 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
 
   <a href="https://x.com/Ayush58739">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" height="40" />
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" 
+       height="40" 
+       style="background-color: white; border-radius: 8px; padding: 5px;" 
+       alt="X logo" />
+</a>
 
 </div>
 
