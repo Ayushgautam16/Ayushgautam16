@@ -95,33 +95,37 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
 
 
 ### 📫 Get in Touch
-<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+
   <a href="mailto:ayushgautam2007.kg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <img width="12" />
+
   <a href="https://www.linkedin.com/in/ayush-gautam-9baa14248/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <img width="12" />
+
   <a href="https://github.com/Ayushgautam16">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <img width="12" />
+
   <a href="https://www.kaggle.com/ayushgautam16">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
   </a>
-  <img width="12" />
+
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
-    <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="30" alt="Duolingo logo" />
+    <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="40" />
   </a>
-  <img width="12" />
+
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30" alt="Google Cloud logo" />
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="40" />
   </a>
-  <img width="12" />
-  <img width="12" />
-<a href="https://x.com/Ayush58739"> <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="30" alt="X logo" /> </a> </div>
+
+  <a href="https://x.com/Ayush58739">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" height="40" />
+  </a>
+
+</div>
 
 <br>
 
