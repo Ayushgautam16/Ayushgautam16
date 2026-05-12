@@ -122,7 +122,7 @@ I'm a passionate technologist with a keen interest in **Data Science**, **Machin
   </a>
 
  </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/GainsBy_Ayush">
     <img src="https://img.icons8.com/color/48/000000/twitterx.png" height="40" alt="X (Twitter) logo" />
   </a>
 </div>
