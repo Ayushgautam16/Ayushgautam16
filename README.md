@@ -71,10 +71,7 @@ I'm passionate about technology, with a keen interest in **Full-Stack Developmen
 
 
 ### 🧑‍💻 What I Do:
-**Python Development:** Building robust applications and scripts.
-**Data Science & Machine Learning:** Developing models to uncover insights and make predictions.
-**Automation with Selenium:** Creating automated workflows and testing frameworks.
-**Web Development:** Crafting dynamic web applications using Flask, Django, HTML, CSS, and JavaScript.
+Building modern web applications, mobile apps, and AI-powered solutions. Passionate about freelancing, solving real-world problems through software, and sharing my journey as a tech content creator on YouTube with content around coding, AI, freelancing, and software development.
 
 
 
