@@ -77,7 +77,7 @@ Building modern web applications, mobile apps, and AI-powered solutions. Passion
 
 
 ### 📫 Get in Touch
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div align="center">
 
   <a href="mailto:ayushgautam2007.kg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
@@ -96,19 +96,30 @@ Building modern web applications, mobile apps, and AI-powered solutions. Passion
   </a>
 
   <a href="https://www.duolingo.com/profile/AyushGauta973401">
-    <img src="https://img.icons8.com/color/48/000000/duolingo-logo.png" height="40" />
+    <img src="https://img.icons8.com/color/48/duolingo-logo.png" height="40" />
   </a>
 
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="40" />
+    <img src="https://img.icons8.com/color/48/google-cloud.png" height="40" />
   </a>
 
- </a>
   <a href="https://x.com/GainsBy_Ayush">
-    <img src="https://img.icons8.com/color/48/000000/twitterx.png" height="40" alt="X (Twitter) logo" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-</div>
 
+  <a href="https://www.youtube.com/@GainsBy_Ayush">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="40" />
+  </a>
+
+  <a href="https://www.instagram.com/gainsby_ayush">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" />
+  </a>
+
+  <a href="https://discord.gg/GCznr82Dn">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+
+</div>
 
 <br>
 
