@@ -24,7 +24,7 @@
 
 
 ## 🚀 About Me
-I'm a passionate technologist with a keen interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I love exploring new technologies and leveraging them to solve real-life problems. My journey in tech started with **Python**, and it has been an exciting ride ever since!
+I'm passionate about technology, with a keen interest in **Full-Stack Development**, **Artificial Intelligence**, **Machine Learning**, **DevOps**, and modern software engineering. I enjoy building scalable applications, exploring new technologies, and solving real-world problems. My journey in tech started with **Python**, and I'm always eager to learn, build, and innovate.
 
 ### Tech Stack:
 <div align="left" style="display: flex; flex-wrap: wrap;">
