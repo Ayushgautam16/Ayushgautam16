@@ -99,6 +99,10 @@ Building modern web applications, mobile apps, and AI-powered solutions. Passion
     <img src="https://img.icons8.com/color/48/duolingo-logo.png" height="40" alt="Duolingo" />
   </a>
 
+  <a href="https://ayushgautam.co.in" target="_blank">
+  <img src="./assets/logo.png" height="40" alt="Portfolio" />
+</a>
+
   <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219" target="_blank">
     <img src="https://img.icons8.com/color/48/google-cloud.png" height="40" alt="Google Cloud Skills Boost" />
   </a>
