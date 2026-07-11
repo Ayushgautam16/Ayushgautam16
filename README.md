@@ -79,44 +79,44 @@ Building modern web applications, mobile apps, and AI-powered solutions. Passion
 ### 📫 Get in Touch
 <div align="center">
 
-  <a href="mailto:ayushgautam2007.kg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:ayushgautam2007.kg@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ayush-gautam-9baa14248/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/ayush-gautam-9baa14248/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/Ayushgautam16">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://github.com/Ayushgautam16" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 
-  <a href="https://www.kaggle.com/ayushgautam16">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
+  <a href="https://www.kaggle.com/ayushgautam16" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
   </a>
 
-  <a href="https://www.duolingo.com/profile/AyushGauta973401">
-    <img src="https://img.icons8.com/color/48/duolingo-logo.png" height="40" />
+  <a href="https://www.duolingo.com/profile/AyushGauta973401" target="_blank">
+    <img src="https://img.icons8.com/color/48/duolingo-logo.png" height="40" alt="Duolingo" />
   </a>
 
-  <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219">
-    <img src="https://img.icons8.com/color/48/google-cloud.png" height="40" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/b2f08db4-94f5-493e-a738-92937bdb3219" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-cloud.png" height="40" alt="Google Cloud Skills Boost" />
   </a>
 
-  <a href="https://x.com/GainsBy_Ayush">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="https://x.com/GainsBy_Ayush" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
   </a>
 
-  <a href="https://www.youtube.com/@GainsBy_Ayush">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" height="40" />
+  <a href="https://yt.openinapp.co/fuhp6p5" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="40" alt="YouTube" />
   </a>
 
-  <a href="https://www.instagram.com/gainsby_ayush">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" />
+  <a href="https://insta.openinapp.co/hj2we" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" alt="Instagram" />
   </a>
 
-  <a href="https://discord.gg/GCznr82Dn">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  <a href="https://discord.openinapp.co/4kluc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
 
 </div>
